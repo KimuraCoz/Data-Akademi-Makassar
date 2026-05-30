@@ -1,0 +1,6 @@
+{
+  "name": "Data Akademi Makassar",
+  "description": "Kumpulan data sejarah, daftar SMU, dan daftar perguruan tinggi negeri maupun swasta di Kota Makassar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
